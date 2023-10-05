@@ -12,6 +12,8 @@
 - Yota Shamoto (Waseda University)
 - Yuta Watanabe (The University of Tokyo)
 - Yongpan Zou (The University of Tokyo)
+
+
 <!--
 - Shin-ichi Matsumura (Tohoku University)
 -->
@@ -42,8 +44,8 @@ Lecture Room E404 is located near the elevator on the 4th floor of Graduate Scho
 # Supports
 
 # Links
-[Workshop on Complex Geometry in Osaka 2023](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023)
-[Workshop on Complex Geometry in Osaka 2022](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry)
+- [Workshop on Complex Geometry in Osaka 2023](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023)
+- [Workshop on Complex Geometry in Osaka 2022](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry)
 
 <!-- 
 Science Buildingsへの行き方は二つあります
