@@ -33,7 +33,7 @@ There are 2 ways to get to the Graduate School of Science in Osaka University (T
 
 We recommend using "Shibahara-handai-mae" Station (monorail). 
 
-The map of Graduate School of Science  [here](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/07/Buildings-of-Graduate-School-of-Science.pdf).
+The map of Graduate School of Science is [here](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/07/Buildings-of-Graduate-School-of-Science.pdf).
 Lecture Room E404 is located near the elevator on the 4th floor of Graduate School of Science Building E.
 
  If you need further assistance, please refer to [this link](http://www.math.sci.osaka-u.ac.jp/eng/access.html).
