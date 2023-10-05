@@ -1,9 +1,10 @@
+# Workshop on Complex Geometry in Osaka 2024
 
-# Information
+## Information
 - Date: 13th--15th March 2024.
 - Place: Lecture Room E404 in Graduate School of Science Building E in Osaka University (Toyonaka Campus). (大阪大学理学部E404講義室(豊中キャンパス))
 
-# Speakers
+## Speakers
 - Osamu Fujino (Kyoto University)
 - Shouhei Ma (Tokyo Institute of Technology)
 - Takashi Ono (Osaka University)
@@ -18,13 +19,13 @@
 - Shin-ichi Matsumura (Tohoku University)
 -->
 
-# Schedule & Abstracts
+## Schedule & Abstracts
 
 <!--
 Click Here for the PDF version of the program and abstracts. 
 -->
 
-# Access
+## Access
 There are 2 ways to get to the Graduate School of Science in Osaka University (Toyonaka Campus):
 
 1. **From "Shibahara-handai-mae" Station (monorail)**: Here are the directions from "Shibahara-handai-mae" Station to the Graduate School of Science in Osaka University. [Link to directions](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/02/Directions-from-Shibahara-handai-mae-Station-to-GSS-Osaka-U_Sep.2020.pdf)
@@ -37,13 +38,13 @@ Lecture Room E404 is located near the elevator on the 4th floor of Graduate Scho
 
  If you need further assistance, please refer to [this link](http://www.math.sci.osaka-u.ac.jp/eng/access.html).
 
-# Organizers
+## Organizers
 - Masataka Iwai (Osaka University)
 - Hisashi Kasuya (Osaka University)
 
-# Supports
+## Supports
 
-# Links
+## Links
 - [Workshop on Complex Geometry in Osaka 2023](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023)
 - [Workshop on Complex Geometry in Osaka 2022](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry)
 
