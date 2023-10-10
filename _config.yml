@@ -3,5 +3,5 @@
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 theme: jekyll-theme-cayman
 title: Workshop on Complex Geometry in Osaka 2024
-description: 13th--15th March 2024.
+description: Hodge theory and vanishing theorem
 # theme: jekyll-theme-cayman
