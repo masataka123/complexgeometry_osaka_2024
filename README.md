@@ -37,7 +37,7 @@ Lecture Room E404 is located near the elevator on the 4th floor of Graduate Scho
 
 ## Organizers
 - [Masataka Iwai](https://masataka123.github.io/blog3_e/) (Osaka University)
-- Hisashi Kasuya (Osaka University)
+- [Hisashi Kasuya](https://sites.google.com/site/hisashikasuyamath/home) (Osaka University)
 
 If you have any questions concerning this conference, please contact Masataka Iwai (masataka[at]math.sci.osaka-u.ac.jp).
 
