@@ -15,8 +15,27 @@
 - Yuta Watanabe (The University of Tokyo)
 - Yongpan Zou (The University of Tokyo)
 
-## Schedule & Abstracts
+## Schedule
 
+### 13th March
+- 9:00-12:00 Free disccustion
+- 13:00--13:30 Resistration 
+1. 13:30--14:30 TBA
+2. 14:45--15:45 TBA
+3. 16:15--17:15 TBA
+
+### 14th March
+1. 10:00--11:00 TBA
+2. 11:15--12:15 TBA
+3. 14:15--15:15 TBA
+4. 15:45--16:45 TBA
+
+### 15th March
+1. 10:00--11:00 TBA
+2. 11:15--12:15 TBA
+- 14:00-18:00 Free disccustion
+
+##  Abstracts
 We will inform around January or February 2024.
 <!--
 Click Here for the PDF version of the program and abstracts. 
@@ -42,6 +61,9 @@ Lecture Room E404 is located near the elevator on the 4th floor of Graduate Scho
 If you have any questions concerning this conference, please contact Masataka Iwai (masataka[at]math.sci.osaka-u.ac.jp).
 
 ## Supports
+
+- JSPS KAKENHI 22K13907 Grant-in-Aid for Early Career Scientists.
+- JSPS KAKENHI 19H01787 Grant-in-Aid for Scientific Research (B)
 
 ## Links
 - [Workshop on Complex Geometry in Osaka 2023](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023)
