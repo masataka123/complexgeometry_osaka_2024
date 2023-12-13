@@ -20,6 +20,7 @@
 ### 13th March
 - 9:00--12:00 Free disccustion
 - 13:00--13:30 Resistration 
+
 1. 13:30--14:30 TBA
 2. 14:45--15:45 TBA
 3. 16:15--17:15 TBA
