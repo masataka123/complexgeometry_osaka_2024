@@ -1,7 +1,7 @@
 # Workshop on Complex Geometry in Osaka 2024 
 
 ## Information
-- Date: 13th--15th March 2024.
+- Date: 13th--15th March 2024. (2024年3月13--15日)
 - Place: Lecture Room E404 in Graduate School of Science Building E in Osaka University (Toyonaka Campus). (大阪大学理学部E404講義室(豊中キャンパス))
 
 ## Speakers
@@ -46,8 +46,10 @@ Click Here for the PDF version of the program and abstracts.
 ## Access
 There are 2 ways to get to the Graduate School of Science in Osaka University (Toyonaka Campus):
 
-1. **From "Shibahara-handai-mae" Station (monorail)**: Here are the directions from "Shibahara-handai-mae" Station (monorail) to the Graduate School of Science in Osaka University. [Link to directions](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/02/Directions-from-Shibahara-handai-mae-Station-to-GSS-Osaka-U_Sep.2020.pdf)
-2.  **From "Ishibashi handai-mae" Station  (Hankyu)**: Here are the directions from "Ishibashi handai-mae" Station (Hankyu) to the Graduate School of Science in Osaka University. [Link to directions](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/02/Directions-from-Hankyu-Ishibashi-handai-mae-Station-to-GSS-Osaka-U_Sep.2020.pdf)
+1. **From "Shibahara-handai-mae" Station (monorail)** -柴原阪大前 (大阪モノレール)-: 
+Here are the directions from "Shibahara-handai-mae" Station (monorail) to the Graduate School of Science in Osaka University. [Link to directions](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/02/Directions-from-Shibahara-handai-mae-Station-to-GSS-Osaka-U_Sep.2020.pdf)
+2.  **From "Ishibashi handai-mae" Station  (Hankyu)** -石橋阪大前 (阪急電鉄)-: 
+Here are the directions from "Ishibashi handai-mae" Station (Hankyu) to the Graduate School of Science in Osaka University. [Link to directions](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/02/Directions-from-Hankyu-Ishibashi-handai-mae-Station-to-GSS-Osaka-U_Sep.2020.pdf)
 
 We recommend using "Shibahara-handai-mae" Station (monorail). 
 
