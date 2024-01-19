@@ -18,7 +18,7 @@
 ## Schedule
 
 ### 13th March
-- 9:00--12:00 Free disccustion
+<!-- - 9:00--12:00 Free disccustion -->
 - 13:00--13:30 Resistration 
 
 1. 13:30--14:30 TBA
@@ -35,7 +35,7 @@
 1. 10:00--11:00 TBA
 2. 11:15--12:15 TBA
 
-- 14:00--18:00 Free disccustion
+<!-- - - 14:00--18:00 Free disccustion -->
 
 ##  Abstracts
 We will inform around January or February 2024.
