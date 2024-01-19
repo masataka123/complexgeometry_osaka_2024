@@ -37,7 +37,7 @@
 
 <!-- - - 14:00--18:00 Free disccustion -->
 
-##  Abstracts
+##  Program
 We will inform around January or February 2024.
 <!--
 Click Here for the PDF version of the program and abstracts. 
@@ -56,7 +56,7 @@ We recommend using "Shibahara-handai-mae" Station (monorail).
 The map of Graduate School of Science is [here](https://www.sci.osaka-u.ac.jp/en/wp-content/uploads/2022/07/Buildings-of-Graduate-School-of-Science.pdf).
 Lecture Room E404 is located near the elevator on the 4th floor of Graduate School of Science Building E.
 
- If you need further assistance, please refer to [this link](http://www.math.sci.osaka-u.ac.jp/eng/access.html).
+ If you need further assistance (for example, how to get to "Shibahara-handai-mae" Station), please refer to [this link](http://www.math.sci.osaka-u.ac.jp/eng/access.html).
 
 ## Organizers
 - [Masataka Iwai](https://masataka123.github.io/blog3_e/) (Osaka University)
