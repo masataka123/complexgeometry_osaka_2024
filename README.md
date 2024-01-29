@@ -21,27 +21,28 @@
 <!-- - 9:00--12:00 Free disccustion -->
 - 13:00--13:30 Resistration 
 
-1. 13:30--14:30 TBA
-2. 14:45--15:45 TBA
-3. 16:15--17:15 TBA
+1. 13:30--14:30 Shouhei Ma (Tokyo Institute of Technology) 
+2. 14:45--15:45 Sheng Rao (Wuhan University) 
+3. 16:15--17:15 Yuta Watanabe (The University of Tokyo) 
 
 ### 14th March
-1. 10:00--11:00 TBA
-2. 11:15--12:15 TBA
-3. 14:15--15:15 TBA
-4. 15:45--16:45 TBA
+1. 10:00--11:00 Osamu Fujino (Kyoto University) 
+2. 11:15--12:15 Yota Shamoto (Waseda University) 
+3. 14:15--15:15 Takashi Ono (Osaka University) 
+4. 15:45--16:45 Shin-ichi Matsumura (Tohoku University) 
 
 ### 15th March
-1. 10:00--11:00 TBA
-2. 11:15--12:15 TBA
+1. 10:00--11:00 Yongpan Zou (The University of Tokyo) 
+2. 11:15--12:15 Takahiro Saito (Chuo University) 
 
 <!-- - - 14:00--18:00 Free disccustion -->
 
 ##  Program
-We will inform around January or February 2024.
 <!--
-Click Here for the PDF version of the program and abstracts. 
+We will inform around January or February 2024.
 -->
+Here is the PDF file of program and abstracts. [Program](https://masataka123.github.io/complexgeometry_osaka_2024/material/program.pdf)
+
 
 ## Access
 There are 2 ways to get to the Graduate School of Science in Osaka University (Toyonaka Campus):
