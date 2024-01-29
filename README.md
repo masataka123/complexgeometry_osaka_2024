@@ -21,28 +21,28 @@
 <!-- - 9:00--12:00 Free disccustion -->
 - 13:00--13:30 Resistration 
 
-1. 13:30--14:30 Shouhei Ma (Tokyo Institute of Technology) 
+1. 13:30--14:30 **Shouhei Ma (Tokyo Institute of Technology)** <br>
 Mixed Hodge structures of locally symmetric varieties
-2. 14:45--15:45 Sheng Rao (Wuhan University) 
+2. 14:45--15:45 Sheng Rao (Wuhan University) <br>
 Geometry of logarithmic forms and deformations of complex structures
-3. 16:15--17:15 Yuta Watanabe (The University of Tokyo) 
+3. 16:15--17:15 Yuta Watanabe (The University of Tokyo) <br>
 Nakano-Nadel type, Bogomolov-Sommese type vanishing involving multiplier ideals
 
 ### 14th March
-1. 10:00--11:00 Osamu Fujino (Kyoto University) 
+1. 10:00--11:00 Osamu Fujino (Kyoto University) <br>
 Vanishing theorems for projective morphisms between complex analytic spaces
-2. 11:15--12:15 Yota Shamoto (Waseda University) 
+2. 11:15--12:15 Yota Shamoto (Waseda University) <br>
 Stokes structure of difference modules
-3. 14:15--15:15 Takashi Ono (Osaka University) 
+3. 14:15--15:15 Takashi Ono (Osaka University) <br>
 Wild harmonic bundles with skew-symmetric structure
-4. 15:45--16:45 Shin-ichi Matsumura (Tohoku University) 
+4. 15:45--16:45 Shin-ichi Matsumura (Tohoku University) <br>
 An injectivity theorem on snc compact Kahler spaces: an application of the theory of
 harmonic integrals on log-canonical centers via adjoint ideal sheaves
 
 ### 15th March
-1. 10:00--11:00 Yongpan Zou (The University of Tokyo) 
+1. 10:00--11:00 Yongpan Zou (The University of Tokyo) <br>
 On the Kodaira-Saito Vanishing Theorem for Weakly Ample Divisors
-2. 11:15--12:15 Takahiro Saito (Chuo University) 
+2. 11:15--12:15 Takahiro Saito (Chuo University) <br>
 mixed Hodge modules of normal crossing type on a smooth toric variety
 
 <!-- - - 14:00--18:00 Free disccustion -->
