@@ -23,8 +23,8 @@
 
 1. 13:30--14:30 **Shouhei Ma (Tokyo Institute of Technology)** <br>
 Mixed Hodge structures of locally symmetric varieties
-2. 14:45--15:45 **Sheng Rao (Wuhan University)** <br>
-Geometry of logarithmic forms and deformations of complex structures
+2. 14:45--15:45 **Yongpan Zou (The University of Tokyo)** <br>
+On the Kodaira-Saito Vanishing Theorem for Weakly Ample Divisors
 3. 16:15--17:15 **Yuta Watanabe (The University of Tokyo)** <br>
 Nakano-Nadel type, Bogomolov-Sommese type vanishing involving multiplier ideals
 
@@ -40,8 +40,8 @@ An injectivity theorem on snc compact Kahler spaces: an application of the theor
 harmonic integrals on log-canonical centers via adjoint ideal sheaves
 
 ### 15th March
-1. 10:00--11:00 **Yongpan Zou (The University of Tokyo)** <br>
-On the Kodaira-Saito Vanishing Theorem for Weakly Ample Divisors
+1. 10:00--11:00 **Sheng Rao (Wuhan University)** <br>
+Geometry of logarithmic forms and deformations of complex structures
 2. 11:15--12:15 **Takahiro Saito (Chuo University)** <br>
 mixed Hodge modules of normal crossing type on a smooth toric variety
 
